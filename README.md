@@ -1,3 +1,5 @@
+Please visit : [News Aggregator Magazine](https://suraj-kumbhar.github.io/news-aggregator-magazine/) for the hosted app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
